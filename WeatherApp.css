@@ -9,8 +9,11 @@ body {
 	background-size: cover;
 }
 .heading{
-    font-family: 'Shojumaru'
-;
+    font-family: 'Quantico';
+}
+.heading3{
+	margin-top: -2px;
+	font-family: 'Quantico';
 }
 .app-container {
 	display: flex;
